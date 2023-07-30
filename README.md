@@ -19,8 +19,8 @@ This project in this repository follows the Learning React in 40 minutes in 2023
 
 
 # Project Setup
-- Start by running `pnpm create vite learning_react_2023 --template react-swc-ts`
-- Note that this will create a sub dicrectory with the name you gave.
+- Start by running `pnpm create vite . --template react-swc-ts`
+- Note that this will use the current dicrectory if you want a sub directory us an name instead of a dot.
 - Install all dependencies with `pnpm install`.
 - Run the application with `pnpm run dev`
 - Check out the application at `http://localhost:5173/`
